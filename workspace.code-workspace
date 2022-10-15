@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\personal porfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Responsive Portfolio Website",
+		"liveServer.settings.port": 5501
+	}
+}
